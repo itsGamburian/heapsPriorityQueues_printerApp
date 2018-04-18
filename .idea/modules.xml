@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/heapsPriorityQueues_printerApp.iml" filepath="$PROJECT_DIR$/.idea/modules/heapsPriorityQueues_printerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/heapsPriorityQueues_printerApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/heapsPriorityQueues_printerApp_main.iml" group="heapsPriorityQueues_printerApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/heapsPriorityQueues_printerApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/heapsPriorityQueues_printerApp_test.iml" group="heapsPriorityQueues_printerApp" />
+    </modules>
+  </component>
+</project>
